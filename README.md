@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadelsabahy&label=Profile%20views&color=0e75b6&style=flat" alt="saadelsabahy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/saadelsabahy?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/saadelsabahy?s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/saadelsabahy?s=09" /></a> </p>
-
 - 🔭 I’m currently working on [ExpandCart](https://expandcart.com/en/)
 
 - 🌱 I’m currently learning **React Ecosystem ,nodeJs.**
