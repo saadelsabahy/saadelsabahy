@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Elsabahy</h1>
-<h3 align="center">A passionate frontend developer from Egypt have solid experience in building websites and mobile apps</h3>
+<h3 align="center">A passionate Frontend Developer From Egypt, Have Solid Experience In Building Websites And Cross-Platform Mobile Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadelsabahy&label=Profile%20views&color=0e75b6&style=flat" alt="saadelsabahy" /> </p>
 
